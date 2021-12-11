@@ -1,5 +1,5 @@
 const uid = require('../util/uid');
-const frameSource = require('./tw-load-script-as-plain-text!./tw-iframe-extension-worker-entry');
+const frameSource = require('./tw-load-script-as-plain-text');
 
 const none = "'none'";
 const allow = '*';
